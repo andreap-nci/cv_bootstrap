@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: rgb(223, 229, 246);
+}
+.row{
+    margin: 20px;
+}
+.btn:hover{
+    background-color: rgb(46, 95, 244);
+}
+.mycontacts{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+h1{
+    margin:30px
+}
+
